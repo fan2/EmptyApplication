@@ -1,5 +1,5 @@
 
-# 由Single View Application项目删除storyboard生成纯代码EmptyProject模板 
+# 由Single View Application项目删除storyboard生成纯代码Empty Application模板 
 
 - 1.从项目中删除LaunchScreen.storyboard和Main.storyboard:  
     从Info.plist中删除Launch screen interface file base name和Main storyboard file base name。
