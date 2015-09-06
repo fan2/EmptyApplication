@@ -1,6 +1,6 @@
 //
-//  UIViewContentModeTests.m
-//  UIViewContentModeTests
+//  EmptyApplicationTests.m
+//  EmptyApplicationTests
 //
 //  Created by faner on 15/9/5.
 //  Copyright © 2015年 faner. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface UIViewContentModeTests : XCTestCase
+@interface EmptyApplicationTests : XCTestCase
 
 @end
 
-@implementation UIViewContentModeTests
+@implementation EmptyApplicationTests
 
 - (void)setUp {
     [super setUp];

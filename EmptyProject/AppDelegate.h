@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  UIViewContentMode
+//  EmptyApplication
 //
 //  Created by faner on 15/9/5.
 //  Copyright © 2015年 faner. All rights reserved.
