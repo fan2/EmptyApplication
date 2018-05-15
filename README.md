@@ -27,3 +27,4 @@
 [《增加Default-568h@2x.png支持iPhone5》](http://blog.csdn.net/heavywater/article/details/8699423)  
 [《Xcode6在模拟器iPhone5/iOS7的版面上下黑边》](http://www.52ij.com/jishu/ios/84256.html)  
 
+test by thomasfan in branch testEmptyApplication.
